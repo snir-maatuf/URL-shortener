@@ -1,9 +1,10 @@
 # URL Shortener
 
 The program allows users to enter a URL and returns a shorter URL that redirects to the original URL.
+
 A URL shortening developed in Go.
 
-## backend abilities
+## Backend abilities
 
 - API 
 - Redis database (storing, using and exporting data)
@@ -55,4 +56,4 @@ http://localhost:6379
 3. Run the program: `go run main.go`
 
 
-Inspired by EDDY WM
+Inspired by EDDY WM.
